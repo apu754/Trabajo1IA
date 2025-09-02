@@ -10,7 +10,7 @@ Los **artefactos del modelo** (preprocesador y modelos entrenados) se montan des
 ## Entrenamiento (Colab recomendado)
 
 1. Abre el cuaderno:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/apu754/Trabajo1IA/blob/main/IA2_vgsales.ipynb)
 
 2. Carga la base:
 
