@@ -1,0 +1,49 @@
+# Python / entorno
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+site/
+*.spec
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variables de entorno / secretos
+.env
+.env.*
+
+# Logs
+*.log
+
+# Modelos y artefactos pesados (NO subir)
+artifacts/*
+!artifacts/.gitkeep
+
+# Archivos de modelo comunes
+*.keras
+*.h5
+*.pkl
+*.joblib
+*.sav
+*.onnx
+
+# Docker
+*.pid
